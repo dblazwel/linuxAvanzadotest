@@ -3,7 +3,7 @@
 ## Author information 
 David B
 
-## PRoject description
+## Project description
 I have this thing where I get older but just never wiser
 Midnights become my afternoons
 When my depression works the graveyard shift

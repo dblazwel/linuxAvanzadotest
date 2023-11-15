@@ -1,9 +1,9 @@
 # Welcome to my first git repo
 
 ## Author information 
-David B
+David B G
 
-## PRoject description
+## Project description
 I have this thing where I get older but just never wiser
 Midnights become my afternoons
 When my depression works the graveyard shift
